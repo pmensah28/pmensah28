@@ -1,8 +1,7 @@
-Hi 👋 My name is Prince Mensah
-------------------------------
+<p align="center"><a href="#"><img width="50%" height="auto" src="https://www.creative-tim.com/blog/content/images/2022/01/which-development-job-is-right-for-you.jpg" height="50px"/></a><p/>
 
-Data Scientist
---------------
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Prince Mensah</h1>
+<h3 align="center">I'm a Data Scientist.</h3>
 
 I honed my skills in Mathematics, Physics, and Computer Programming and delved into quantum computing research. I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
 
