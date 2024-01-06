@@ -1,6 +1,6 @@
-<p align="center"><a href="#"><img width="50%" height="auto" src="https://www.creative-tim.com/blog/content/images/2022/01/which-development-job-is-right-for-you.jpg" height="50px"/></a><p/>
+<p align="center"><a href="#"><img width="50%" height="360px" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" height="10px"/></a><p/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Prince Mensah</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Prince Mensah</h1>
 <h3 align="center">I'm a Data Scientist.</h3>
 
 I honed my skills in Mathematics, Physics, and Computer Programming and delved into quantum computing research. I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
@@ -40,7 +40,7 @@ I honed my skills in Mathematics, Physics, and Computer Programming and delved i
     <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages only showcase languages of my public repository and not an absolute reflection of experience or skillsets.
   </p>
 <br/>
 <br />
