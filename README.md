@@ -46,7 +46,7 @@ I have an extensive background in Data Science and programming proficiency in C/
 <br />
 
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/pmensah28/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pmensah28">
 </a>
 <a href="https://github.com/pmensah28?tab=followers"><img src="https://img.shields.io/github/followers/pmensah28?label=Followers&style=social" alt="GitHub Badge"></a>
