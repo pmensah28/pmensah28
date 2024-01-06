@@ -3,7 +3,7 @@
 <h1 align="center">Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Prince Mensah</h1>
 <h3 align="center">I'm a Data Scientist.</h3>
 
-I honed my skills in Mathematics, Physics, and Computer Programming and delved into quantum computing research. I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
+I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
 
 * ✉️  You can contact me at [princemensaheyram@gmail.com](mailto:princemensaheyram@gmail.com)
 * 🧠  I'm learning Web Development
