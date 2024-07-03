@@ -37,9 +37,6 @@ I have an extensive background in Data Science and programming proficiency in C/
   <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kozodoi&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kozodoi&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
-
 
 
     
@@ -57,7 +54,7 @@ I have an extensive background in Data Science and programming proficiency in C/
 <a href="https://github.com/pmensah28?tab=followers"><img src="https://img.shields.io/github/followers/pmensah28?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-[Check out my website](https://kozodoi.me) with my ML blog, publications and portfolio.
+[Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/kozodoi/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/kozodoi)](https://www.github.com/kozodoi)
