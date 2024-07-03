@@ -16,6 +16,7 @@
 <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
 <h3 align="center"></h3>
 
+### About Me
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 <br />
 
