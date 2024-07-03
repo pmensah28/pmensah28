@@ -21,6 +21,18 @@
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 </div>
 
+<p align="center">
+  <a href="https://github.com/pmensah28">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmensah28&theme=react&border=4B88F6&background=0D1117" alt="GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pmensah28">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pmensah28&theme=github_dark&border=4B88F6" alt="GitHub Contribution"/>
+  </a>
+</p>
+
 
 ## 🧰 Languages and Tools
 
