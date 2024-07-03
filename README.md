@@ -26,8 +26,8 @@ I'm Prince Mensah, my background is in machine learning with programming profici
 ![C++](https://img.shields.io/badge/C++-4B88F6?style=for-the-badge&labelColor=black&logo=c++&logoColor=4B88F6)
 ![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=E34F26)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=orange)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+<!-- ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A) -->
 ![Docker](https://img.shields.io/badge/Docker-4B88F6?style=for-the-badge&logo=docker&logoColor=4B88F6)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&logo=css3&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-4B88F6?style=for-the-badge&logo=visual%20studio&logoColor=white)
