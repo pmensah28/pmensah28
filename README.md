@@ -26,15 +26,15 @@ I have an extensive background in Data Science and programming proficiency in C/
 <br />
 <br />
 
-<p align="center"><b>My GitHub Stats</b><p/>
+<p align="center"><b>GitHub Stats</b><p/>
 <p align="center">
     <a href="https://github.com/pmensah28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prince Mensah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pmensah28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   <br />
   <br/>
-    <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
