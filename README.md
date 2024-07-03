@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://pmensah28.github.io/)](https://pmensah28.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/pmensah28)](https://github.com/pmensah28)
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/pmensah28)](https://github.com/pmensah28/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pmensah1)](https://www.kaggle.com/pmensah1)
 [![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:pmensah@aimsammi.org)](mailto:pmensah@aimsammi.org)
 [![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/pmensah)](https://www.buymeacoffee.com/pmensah)
@@ -16,12 +16,10 @@
 <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
 <h3 align="center"></h3>
 
-<div align="center">
 ## About Me
   
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 </div>
-<br />
 
 
 ## 🧰 Languages and Tools
@@ -40,6 +38,16 @@ I'm Prince Mensah, my background is in machine learning with programming profici
 <br />
 <br />
 <br />
+
+<a> 
+  <a href="https://github.com/pmensah28">
+    <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/pmensah28">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&layout=compact&theme=react&border_color=4B88F6&bg_color=0D1117&title_color=4B88F6&icon_color=4B88F6" height="192px" width="49.5%"/>
+  </a>
+  <br/>
+</a>
 
 
 
