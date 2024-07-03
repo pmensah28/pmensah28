@@ -6,7 +6,6 @@
 I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
 
 <p align="center">
-    
 [Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
 </p>
 <p align="center">
