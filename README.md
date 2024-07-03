@@ -8,7 +8,7 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/pmensah1)](https://www.kaggle.com/pmensah1)
 [![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:pmensah@aimsammi.org)](mailto:pmensah@aimsammi.org)
 [![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/kozodoi)](https://www.buymeacoffee.com/kozodoi)
-
+<a href="https://github.com/pmensah28/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=pmensah28"></a>
 </div>
 
 
