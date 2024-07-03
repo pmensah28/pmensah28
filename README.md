@@ -9,6 +9,7 @@
 [![Email Me](https://img.shields.io/badge/-Email-676767?style=flat&logo=google-scholar&logoColor=white&link=mailto:pmensah@aimsammi.org)](mailto:pmensah@aimsammi.org)
 [![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/pmensah)](https://www.buymeacoffee.com/pmensah)
 <a href="https://github.com/pmensah28/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=pmensah28"></a>
+<a href="https://github.com/pmensah28?tab=followers"><img src="https://img.shields.io/github/followers/pmensah28?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
 
@@ -51,11 +52,4 @@ I'm Prince Mensah, my background is in machine learning with programming profici
   <br/>
 <br/>
 <br />
-
-<p align="center">
-<a href="https://github.com/pmensah28/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pmensah28">
-</a>
-<a href="https://github.com/pmensah28?tab=followers"><img src="https://img.shields.io/github/followers/pmensah28?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
 
