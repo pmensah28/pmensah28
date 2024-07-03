@@ -22,6 +22,11 @@ I'm Prince Mensah, my background is in machine learning with programming profici
 </div>
 
 ## Contributions
+<a href="https://github.com/pmensah28">
+  <img align="right" src="https://komarev.com/ghpvc/?username=pmensah28&label=Visitors&color=4B88F6&style=flat" alt="Profile Visitors" />
+</a>
+
+[![Projects? 10+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/pmensah28)
 
 <p align="center">
   <a href="https://github.com/pmensah28">
