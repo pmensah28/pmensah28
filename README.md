@@ -36,14 +36,6 @@ I have an extensive background in Data Science and programming proficiency in C/
     <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-
-
-    
-  <b>Note:</b> Top languages only showcase languages of my public repository and notan absolute reflection of experience or skillsets.
-  </p>
-
-  
 <br/>
 <br />
 
