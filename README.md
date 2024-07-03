@@ -23,6 +23,7 @@ I'm Prince Mensah, my background is in machine learning with programming profici
 ### 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
+![C++](https://img.shields.io/badge/C++-F0DB4F?style=for-the-badge&labelColor=black&logo=c++&logoColor=F0DB4F)
 ![Pytorch](https://img.shields.io/badge/Pytorch-E34F26?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=E34F26)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-F05032?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F05032)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
