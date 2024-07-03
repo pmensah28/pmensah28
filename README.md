@@ -16,12 +16,12 @@
 <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
 <h3 align="center"></h3>
 
-### About Me
+## About Me
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 <br />
 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![C++](https://img.shields.io/badge/C++-4B88F6?style=for-the-badge&labelColor=black&logo=c++&logoColor=4B88F6)
