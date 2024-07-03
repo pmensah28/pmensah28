@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="auto" height="360px" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" height="50px"/></a><p/>
+![image](https://github.com/pmensah28/pmensah28/blob/main/img/bg.png)
 
 <h1 align="center">Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prince Mensah</h1>
 <h3 align="center"></h3>
