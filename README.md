@@ -4,8 +4,7 @@
 <h3 align="center"></h3>
 
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
-<p align="center"> Check out my website for some of my current projects</p>
-<p align="center">
+<br />
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=Website&logoColor=white&link=https://pmensah28.github.io/)](https://pmensah28.github.io/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
