@@ -7,7 +7,7 @@ I have an extensive background in Data Science and programming proficiency in C/
 
 <p align="center">
 [Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
-</p>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/kozodoi/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/kozodoi)](https://www.github.com/kozodoi)
@@ -16,7 +16,7 @@ I have an extensive background in Data Science and programming proficiency in C/
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)](https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)
 [![Tea](https://img.shields.io/badge/-Buy_me_a_tea-yellow?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/kozodoi)](https://www.buymeacoffee.com/kozodoi)
 
-
+</p>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" />
