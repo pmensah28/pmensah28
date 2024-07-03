@@ -8,7 +8,7 @@ I have an extensive background in Data Science and programming proficiency in C/
 <p align="center">
     
 [Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
-
+</p>
 <p align="center">
     
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/kozodoi/) 
