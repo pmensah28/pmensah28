@@ -36,6 +36,13 @@ I have an extensive background in Data Science and programming proficiency in C/
     <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pmensah28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pmensah28/github-readme-stats"><img alt="Prince Mensah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmensah28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kozodoi&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues,contribs&hide_title=false&line_height=24&card_width=285)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kozodoi&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
+
+
+
+    
   <b>Note:</b> Top languages only showcase languages of my public repository and not an absolute reflection of experience or skillsets.
   </p>
 
