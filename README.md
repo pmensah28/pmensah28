@@ -3,7 +3,7 @@
 <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
 <h3 align="center"></h3>
 
-I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. Besides, I'm well-versed with libraries including Pytorch, TensorFlow, Scikit-Learn, Numpy, and Scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
+I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 <p align="center">
 [Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
 </p>
