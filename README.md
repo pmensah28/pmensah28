@@ -4,13 +4,11 @@
 <h3 align="center"></h3>
 
 I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
-<p align="center">
-[Check out my website](https://pmensah28.github.io/) with my ML blog, publications and portfolio.
-</p>
+<p align="center"> Check out my website for some of my current projects</p>  [here](https://pmensah28.github.io/)
 <p align="center">
     
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/)](https://www.linkedin.com/in/prince-mensah/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/kozodoi)](https://www.github.com/kozodoi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-mensah/)](https://www.linkedin.com/in/prince-mensah/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://www.github.com/kozodoi)](https://www.github.com/pmensah28)
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/n_kozodoi)](https://www.twitter.com/n_kozodoi)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kozodoi)](https://www.kaggle.com/kozodoi)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)](https://scholar.google.com/citations?user=58tMuD0AAAAJ&amp;hl=en)
