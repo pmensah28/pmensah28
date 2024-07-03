@@ -1,13 +1,9 @@
 <p align="center"><a href="#"><img width="auto" height="360px" src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" height="50px"/></a><p/>
 
-<h1 align="center">About ME</h1>
+<h1 align="center">Welcome<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prince Mensah</h1>
 <h3 align="center"></h3>
 
 I have an extensive background in Data Science and programming proficiency in C/C++, Python, R, and SQL. Besides, I'm well-versed with technologies such as Git, Unix Shell, LaTeX, Tableau, and Power BI, and libraries like TensorFlow, Scikit-Learn, Pytorch, Numpy, and Scipy. My skills extend to software configuration management, troubleshooting, debugging, and I pride myself on my exceptional problem-solving and team skills.
-
-* ✉️  You can contact me at [princemensaheyram@gmail.com](mailto:princemensaheyram@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Interesting Data Science Projects
 
 ### 🧰 Languages and Tools
 
