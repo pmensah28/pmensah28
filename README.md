@@ -18,7 +18,7 @@
 
 ## About Me
   
-I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorFlow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
+I'm Prince Mensah, my background is in machine learning with programming proficiency in python, c and c++. I'm well-versed with libraries including pytorch, tensorflow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms, with the objective of fostering research and innovation.
 </div>
 
 ## Contributions
@@ -26,7 +26,7 @@ I'm Prince Mensah, my background is in machine learning with programming profici
   <img align="right" src="https://komarev.com/ghpvc/?username=pmensah28&label=Visitors&color=4B88F6&style=flat" alt="Profile Visitors" />
 </a>
 
-[![Projects? 10+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/pmensah28)
+[![Projects? 12+](https://img.shields.io/badge/Projects-12%2B-4B88F6?style=flat)](https://github.com/pmensah28)
 
 <p align="center">
   <a href="https://github.com/pmensah28">
