@@ -18,7 +18,7 @@
 
 ## About Me
   
-My background is in Mathematics and Machine Learning with programming proficiency in Python, C and C++. I'm well-versed with libraries including pytorch, tensorflow, scikit-Learn, numpy, and scipy. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms.
+My background is in Mathematics and Machine Learning with programming proficiency in Python, C and C++. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms.
 </div>
 
 ## Contributions
