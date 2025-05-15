@@ -1,4 +1,4 @@
-![image](https://github.com/pmensah28/pmensah28/blob/main/img/bg.png)
+<!--![image](https://github.com/pmensah28/pmensah28/blob/main/img/bg.png) -->
 
 <div align="center">
 
