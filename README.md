@@ -16,10 +16,10 @@
 <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
 <h3 align="center"></h3>
 
-## About Me
+<!-- ## About Me
   
 My background is in Mathematics and Machine Learning with programming proficiency in Python, C and C++. I am dedicated to building a career that leverages my creativity to develop machine learning algorithms.
-</div>
+</div> -->
 
 ## Contributions
 <a href="https://github.com/pmensah28">
