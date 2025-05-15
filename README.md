@@ -13,8 +13,8 @@
 </div>
 
 
-<h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
-<h3 align="center"></h3>
+<!-- <h5 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Nice to meet you!</h5>
+<h3 align="center"></h3> -->
 
 <!-- ## About Me
   
